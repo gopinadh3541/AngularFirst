@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "garyAngular"
+    }
+  },
+  "defaultProject": "garyAngular",
+  "cli": {
+    "analytics": false
+  }
 }
